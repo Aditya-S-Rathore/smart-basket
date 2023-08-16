@@ -9,7 +9,7 @@ export const Category = (props) => {
   const [foodItem, setFoodItem] = useState([]);
 
   const loadData = async () => {
-    let response = await fetch(`http://localhost:${process.env.PORT}/api/foodData`, {
+    let response = await fetch(`https://smart-basket.onrender.com/api/foodData`, {
       method: "POST",
       headers: {
         'Content-Type': 'application/json'
