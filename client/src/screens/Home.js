@@ -42,13 +42,13 @@ export default function Home() {
                         </div>
                     </div>
                     <div className="carousel-item active">
-                        <img src="https://source.unsplash.com/random/900x700/?grocery" className="d-block w-100" style={{filter:"brightness(40%)"}} alt="..." />
+                        <img src="https://media.istockphoto.com/id/1449032425/photo/shopping-bag-full-of-healthy-food-on-blue.jpg?s=612x612&w=0&k=20&c=856XpqRgq8Bj9Mr28VzAdW-iTyHEj_dW01m6SPPHsOU=" className="d-block w-100" style={{filter:"brightness(40%)"}} alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://source.unsplash.com/random/900x700/?furniture" className="d-block w-100" style={{filter:"brightness(40%)"}} alt="..." />
+                        <img src="https://media.istockphoto.com/id/1157106624/photo/all-your-necessities-stored-in-one-place.jpg?s=1024x1024&w=is&k=20&c=8Wpn6NRdkVmXtR5jxGmxnyqu_wY3kF6yMMXWHla0t5Y=" className="d-block w-100" style={{filter:"brightness(40%)"}} alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://source.unsplash.com/random/900x700/?clothes" className="d-block w-100" style={{filter:"brightness(40%)"}} alt="..." />
+                        <img src="https://media.istockphoto.com/id/693171708/photo/fresh-vegetables-on-shelf-in-supermarket.jpg?s=1024x1024&w=is&k=20&c=3pXSfdeB7np1T4DDdJKgkQSZ3kyg63_AHPJRSKzsfW0=" className="d-block w-100" style={{filter:"brightness(40%)"}} alt="..." />
                     </div>
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
