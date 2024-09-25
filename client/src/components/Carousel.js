@@ -12,13 +12,13 @@ export default function Carousel() {
                         </form>
                     </div>
                     <div className="carousel-item active">
-                        <img src="https://source.unsplash.com/random/900x700/?grocery" className="d-block w-100" style={{filter:"brightness(40%)"}} alt="..." />
+                        <img src="https://www.macopkg.com/wp-content/uploads/2023/02/supermarket-aisle-1536x1152.jpg" className="d-block w-100" style={{filter:"brightness(40%)"}} alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://source.unsplash.com/random/900x700/?pastry" className="d-block w-100" style={{filter:"brightness(40%)"}} alt="..." />
+                        <img src="https://www.indiafoodnetwork.in/wp-content/uploads/2019/07/Chocoalates-cover-web.jpg" className="d-block w-100" style={{filter:"brightness(40%)"}} alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://source.unsplash.com/random/900x700/?barbeque" className="d-block w-100" style={{filter:"brightness(40%)"}} alt="..." />
+                        <img src="https://www.tastingtable.com/img/gallery/20-lays-potato-chip-flavors-ranked/intro-1684954432.webp" className="d-block w-100" style={{filter:"brightness(40%)"}} alt="..." />
                     </div>
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
